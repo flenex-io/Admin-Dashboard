@@ -2,6 +2,12 @@
 
 Welcome to the Project Admin Dashboard! This dashboard provides an interface for administrators to manage and monitor various aspects of their business. The project is created in React js.
 
+## Features
+
+- **Team Information:** View and manage your project team members' information, roles, and contact details.
+
+- **Graphs:** Visualize project statistics and progress through interactive and aesthetically pleasing graphs.
+
 ### Installation
 
 1. Clone the repository:
